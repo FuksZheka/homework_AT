@@ -21,7 +21,7 @@
         </plugins>
     </build>
     <modules>
-        <module>HW1</module>
+        <module>HW2</module>
     </modules>
 
     <properties>
