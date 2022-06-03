@@ -2,7 +2,7 @@ package animals;
 
 import food.Food;
 
-public class Animal {
+public abstract class Animal {
     String name;
     int prettiness;
     int weight;
